@@ -1,7 +1,0 @@
-<html>
-<title>
-</title>
-<body>
-<h1> Hi Azure </h1>
-</body>
-</html>
